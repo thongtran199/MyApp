@@ -10,8 +10,5 @@ class Student
 {
   public String name;
   public Integer age;
-  public (name, age)
-  {
-    this.name = name;
-  }
+
 }
